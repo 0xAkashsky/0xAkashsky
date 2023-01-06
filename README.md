@@ -9,7 +9,7 @@
   Hi, I'm Akash Gupta, Ethical hacker, Penetration tester, Cloud SecOps.<br/> 
   Also I hunt bugs on fortune companies and help them to make it more secure and write blogs in free time (checkout my medium).
   
-  Everday exploring Web Application security and cloud security.
+  Everyday exploring Web Application security and cloud security.
   
 ### Certifications
 OSCP - Offensive Security Certified Professional<br/>
